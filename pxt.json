@@ -1,6 +1,6 @@
 {
     "name": "pxt-sensor",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -13,5 +13,6 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false
+    "public": false,
+    "installedVersion": "workspace:d78d7e13-fd55-4297-02ce-1a484e48c657"
 }
