@@ -11,7 +11,7 @@ into the search field at the top of the screen.
 
 Once the extension is added, you will find a new blocks category called _Sensor_
 
-![Sensor blocks category](/figs/sensor_blocks.png)
+![Sensor blocks category](https://www.monkmakes.com/wp-content/uploads/2019/04/blocks.png)
 
 ## Examples
 
