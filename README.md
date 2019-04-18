@@ -1,4 +1,4 @@
-# PTX (Makecode) Blocks for the MonkMakes Sensor for micro:bit board.
+# PTX (Makecode) Blocks for the MonkMakes Sensor for micro:bit.
 
 
 ## Installation
@@ -54,23 +54,11 @@ Here's a link to the Makecode project: https://makecode.microbit.org/_YUfPH3E7qb
 
 
 
-## TODO
-
-- [ x] Add a reference for your blocks here
-- [ x] Add "icon.png" image (300x200) in the root folder
-- [ x] Add "- beta" to the GitHub project description if you are still iterating it.
-- [ ] Turn on your automated build on https://travis-ci.org
-- [ ] Use "pxt bump" to create a tagged release on GitHub
-- [ ] Get your package reviewed and approved https://makecode.microbit.org/packages/approval
-
-Read more at https://makecode.microbit.org/packages/build-your-own
-
 ## License
-
+MIT
 
 
 ## Supported targets
 
 * for PXT/microbit
-(The metadata above is needed for package search.)
 
