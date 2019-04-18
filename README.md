@@ -1,5 +1,7 @@
 # PTX (Makecode) Blocks for the MonkMakes Sensor for micro:bit.
 
+For more information on the MonkMakes sensor, see: https://www.monkmakes.com/mb_sensor/
+
 
 ## Installation
 
