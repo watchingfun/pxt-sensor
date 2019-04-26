@@ -1,6 +1,6 @@
 {
     "name": "pxt-sensor",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "PXT Extension for the MonkMakes Sensor for micro:bit",
     "dependencies": {
         "core": "*"
